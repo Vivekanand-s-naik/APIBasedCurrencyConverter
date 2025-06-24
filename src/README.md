@@ -25,4 +25,3 @@
 
 ---
 
-Feel free to update this README with more details as your project evolves!
